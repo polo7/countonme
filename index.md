@@ -7,4 +7,4 @@ This is a simple and easy-to-use Tally Counter app which is able:
 
 ### Support or Contact
 
-Having trouble with CountOnMe?
+Having trouble with CountOnMe? Please [let me know](mailto:lesechko@hotmail.com)!
