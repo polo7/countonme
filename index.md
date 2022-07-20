@@ -16,6 +16,6 @@ All app's features are absolutely FREE, there are NO any subscriptions in this a
 
 ### Contacts:
 
-Please [let me know](mailto:lesechko@hotmail.com)! if you have any questions.
+Please [let me know](mailto:lesechko@hotmail.com) if you have any questions.
 
 2022 &copy; Roman Lesechko
