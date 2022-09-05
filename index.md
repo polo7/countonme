@@ -5,6 +5,8 @@ This is a simple and easy-to-use Tally Counter app which is able:
 - to set an initial value
 - to record a timestamp of the last count
 
+[Download on the AppStore](https://apps.apple.com/us/app/countonme-tally-counter/id1631746756)
+
 ### Privacy Policy
 This app does NOT collect any user data, does NOT contain any trackers, does NOT require neither user's registration nor authorization.
 All app's features are absolutely FREE, there are NO any subscriptions in this app.
